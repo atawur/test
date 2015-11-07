@@ -1,0 +1,35 @@
+
+ul.menu{float:left;
+	margin:0;
+	padding-top:19px;	
+	border-top:1px solid #ccc;
+}
+
+ul.menu li{
+	position:relative;
+	float:left;
+	list-style:none;
+	padding-left:0px;
+	
+}
+ul.menu li a{
+	text-decoration:none;
+	text-transform:uppercase;
+	color:#3b3b3b;;
+	font-size:14px;
+	padding-left:0px;
+	padding-right:23px;
+	padding-top:4px;
+	padding-bottom:5px;
+	border-right:1px solid #fff;
+	font-size:14px;
+	font-weight:bold;
+	margin:0px;
+	font-family:Axiata Book;
+}
+ul.menu li i{font-size:20px; padding-left:15px;}
+
+
+
+/* =========================================================== */
+
